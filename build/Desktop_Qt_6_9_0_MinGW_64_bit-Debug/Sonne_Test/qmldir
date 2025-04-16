@@ -1,0 +1,5 @@
+module Sonne_Test
+typeinfo appSonne_Test.qmltypes
+prefer :/qt/qml/Sonne_Test/
+Main 1.0 Main.qml
+

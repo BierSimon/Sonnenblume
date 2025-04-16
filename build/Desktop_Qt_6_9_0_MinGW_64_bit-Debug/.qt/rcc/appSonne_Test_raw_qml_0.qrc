@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/Sonne_Test/">
+    <file alias="Main.qml">D:/Qt files/Sonne Test/Sonne_Test/Main.qml</file>
+    <file alias="sonne.gitignore">D:/Qt files/Sonne Test/Sonne_Test/sonne.gitignore</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,20 @@
+# Qt build stuff
+*.pro.user
+*.pro.user.*
+*.autosave
+*.qmlproject.user
+*.obj
+*.o
+*.so
+*.dll
+*.exe
+*.app
+build-*/
+
+# macOS + system
+.DS_Store
+Thumbs.db
+
+# Editor-Dateien
+*.swp
+*.kate-swp

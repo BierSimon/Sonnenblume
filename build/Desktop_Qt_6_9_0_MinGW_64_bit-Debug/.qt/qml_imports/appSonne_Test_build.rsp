@@ -1,0 +1,14 @@
+-rootPath
+D:/Qt files/Sonne Test/Sonne_Test
+-cmake-output
+-output-file
+D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appSonne_Test_build.cmake
+-importPath
+D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Sonne_Test
+-importPath
+D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug
+-importPath
+D:/Qt/6.9.0/mingw_64/qml
+-qrcFiles
+D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qmake_Sonne_Test.qrc
+D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/appSonne_Test_raw_qml_0.qrc
