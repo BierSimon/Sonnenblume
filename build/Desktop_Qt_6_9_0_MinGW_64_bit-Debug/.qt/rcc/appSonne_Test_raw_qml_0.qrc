@@ -1,7 +1,10 @@
 <RCC>
   <qresource prefix="/qt/qml/Sonne_Test/">
     <file alias="Main.qml">D:/Qt files/Sonne Test/Sonne_Test/Main.qml</file>
+    <file alias="Sonnenstand.qml">D:/Qt files/Sonne Test/Sonne_Test/Sonnenstand.qml</file>
     <file alias="sonne.gitignore">D:/Qt files/Sonne Test/Sonne_Test/sonne.gitignore</file>
+    <file alias="images/raindrop.png">D:/Qt files/Sonne Test/Sonne_Test/images/raindrop.png</file>
+    <file alias="ressources.qrc">D:/Qt files/Sonne Test/Sonne_Test/ressources.qrc</file>
   </qresource>
 </RCC>
 

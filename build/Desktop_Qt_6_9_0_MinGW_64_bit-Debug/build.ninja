@@ -47,7 +47,7 @@ cmake_ninja_workdir = D$:/Qt$ files/Sonne$ Test/Sonne_Test/build/Desktop_Qt_6_9_
 #############################################
 # Order-only phony target for appSonne_Test
 
-build cmake_object_order_depends_target_appSonne_Test: phony || .qt/rcc/qrc_appSonne_Test_raw_qml_0.cpp .qt/rcc/qrc_qmake_Sonne_Test.cpp .rcc/qmlcache/appSonne_Test_Main_qml.cpp .rcc/qmlcache/appSonne_Test_Main_qml.cpp.aotstats .rcc/qmlcache/appSonne_Test_qmlcache_loader.cpp Sonne_Test/appSonne_Test.qmltypes appSonne_Test_autogen appSonne_Test_autogen/mocs_compilation.cpp appSonne_Test_autogen/timestamp appSonne_Test_autogen_timestamp_deps appSonne_Test_copy_qml appSonne_Test_copy_res appSonne_Test_qmlimportscan appsonne_test_qmltyperegistrations.cpp meta_types/appSonne_Test_json_file_list.txt meta_types/appSonne_Test_json_file_list.txt.timestamp meta_types/qt6appsonne_test_debug_metatypes.json meta_types/qt6appsonne_test_debug_metatypes.json.gen
+build cmake_object_order_depends_target_appSonne_Test: phony || .qt/rcc/qrc_appSonne_Test_raw_qml_0.cpp .qt/rcc/qrc_qmake_Sonne_Test.cpp .rcc/qmlcache/appSonne_Test_Main_qml.cpp .rcc/qmlcache/appSonne_Test_Main_qml.cpp.aotstats .rcc/qmlcache/appSonne_Test_Sonnenstand_qml.cpp .rcc/qmlcache/appSonne_Test_Sonnenstand_qml.cpp.aotstats .rcc/qmlcache/appSonne_Test_qmlcache_loader.cpp Sonne_Test/appSonne_Test.qmltypes appSonne_Test_autogen appSonne_Test_autogen/mocs_compilation.cpp appSonne_Test_autogen/timestamp appSonne_Test_autogen_timestamp_deps appSonne_Test_copy_qml appSonne_Test_copy_res appSonne_Test_qmlimportscan appsonne_test_qmltyperegistrations.cpp meta_types/appSonne_Test_json_file_list.txt meta_types/appSonne_Test_json_file_list.txt.timestamp meta_types/qt6appsonne_test_debug_metatypes.json meta_types/qt6appsonne_test_debug_metatypes.json.gen
 
 build CMakeFiles/appSonne_Test.dir/appSonne_Test_autogen/mocs_compilation.cpp.obj: CXX_COMPILER__appSonne_Test_unscanned_Debug D$:/Qt$ files/Sonne$ Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appSonne_Test_autogen/mocs_compilation.cpp || cmake_object_order_depends_target_appSonne_Test
   DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QMLMETA_LIB -DQT_QMLMODELS_LIB -DQT_QMLWORKERSCRIPT_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
@@ -57,9 +57,9 @@ build CMakeFiles/appSonne_Test.dir/appSonne_Test_autogen/mocs_compilation.cpp.ob
   OBJECT_DIR = CMakeFiles\appSonne_Test.dir
   OBJECT_FILE_DIR = CMakeFiles\appSonne_Test.dir\appSonne_Test_autogen
 
-build CMakeFiles/appSonne_Test.dir/main.cpp.obj: CXX_COMPILER__appSonne_Test_unscanned_Debug D$:/Qt$ files/Sonne$ Test/Sonne_Test/main.cpp || cmake_object_order_depends_target_appSonne_Test
+build CMakeFiles/appSonne_Test.dir/Main.cpp.obj: CXX_COMPILER__appSonne_Test_unscanned_Debug D$:/Qt$ files/Sonne$ Test/Sonne_Test/Main.cpp || cmake_object_order_depends_target_appSonne_Test
   DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QMLMETA_LIB -DQT_QMLMODELS_LIB -DQT_QMLWORKERSCRIPT_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
-  DEP_FILE = CMakeFiles\appSonne_Test.dir\main.cpp.obj.d
+  DEP_FILE = CMakeFiles\appSonne_Test.dir\Main.cpp.obj.d
   FLAGS = -DQT_QML_DEBUG -g -fdiagnostics-color=always
   INCLUDES = -I"D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appSonne_Test_autogen/include" -I"D:/Qt files/Sonne Test/Sonne_Test" -isystem D:/Qt/6.9.0/mingw_64/include/QtQml/6.9.0 -isystem D:/Qt/6.9.0/mingw_64/include/QtQml/6.9.0/QtQml -isystem D:/Qt/6.9.0/mingw_64/include/QtCore/6.9.0 -isystem D:/Qt/6.9.0/mingw_64/include/QtCore/6.9.0/QtCore -isystem D:/Qt/6.9.0/mingw_64/include/QtCore -isystem D:/Qt/6.9.0/mingw_64/include -isystem D:/Qt/6.9.0/mingw_64/mkspecs/win32-g++ -isystem D:/Qt/6.9.0/mingw_64/include/QtQml -isystem D:/Qt/6.9.0/mingw_64/include/QtQmlIntegration -isystem D:/Qt/6.9.0/mingw_64/include/QtNetwork -isystem D:/Qt/6.9.0/mingw_64/include/QtQuick -isystem D:/Qt/6.9.0/mingw_64/include/QtGui -isystem D:/Qt/6.9.0/mingw_64/include/QtQmlMeta -isystem D:/Qt/6.9.0/mingw_64/include/QtQmlModels -isystem D:/Qt/6.9.0/mingw_64/include/QtQmlWorkerScript -isystem D:/Qt/6.9.0/mingw_64/include/QtOpenGL
   OBJECT_DIR = CMakeFiles\appSonne_Test.dir
@@ -97,6 +97,14 @@ build CMakeFiles/appSonne_Test.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rc
   OBJECT_DIR = CMakeFiles\appSonne_Test.dir
   OBJECT_FILE_DIR = CMakeFiles\appSonne_Test.dir\build\Desktop_Qt_6_9_0_MinGW_64_bit-Debug\.rcc\qmlcache
 
+build CMakeFiles/appSonne_Test.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSonne_Test_Sonnenstand_qml.cpp.obj: CXX_COMPILER__appSonne_Test_unscanned_Debug D$:/Qt$ files/Sonne$ Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSonne_Test_Sonnenstand_qml.cpp || cmake_object_order_depends_target_appSonne_Test
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QMLMETA_LIB -DQT_QMLMODELS_LIB -DQT_QMLWORKERSCRIPT_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\appSonne_Test.dir\build\Desktop_Qt_6_9_0_MinGW_64_bit-Debug\.rcc\qmlcache\appSonne_Test_Sonnenstand_qml.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -fdiagnostics-color=always
+  INCLUDES = -I"D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appSonne_Test_autogen/include" -I"D:/Qt files/Sonne Test/Sonne_Test" -isystem D:/Qt/6.9.0/mingw_64/include/QtQml/6.9.0 -isystem D:/Qt/6.9.0/mingw_64/include/QtQml/6.9.0/QtQml -isystem D:/Qt/6.9.0/mingw_64/include/QtCore/6.9.0 -isystem D:/Qt/6.9.0/mingw_64/include/QtCore/6.9.0/QtCore -isystem D:/Qt/6.9.0/mingw_64/include/QtCore -isystem D:/Qt/6.9.0/mingw_64/include -isystem D:/Qt/6.9.0/mingw_64/mkspecs/win32-g++ -isystem D:/Qt/6.9.0/mingw_64/include/QtQml -isystem D:/Qt/6.9.0/mingw_64/include/QtQmlIntegration -isystem D:/Qt/6.9.0/mingw_64/include/QtNetwork -isystem D:/Qt/6.9.0/mingw_64/include/QtQuick -isystem D:/Qt/6.9.0/mingw_64/include/QtGui -isystem D:/Qt/6.9.0/mingw_64/include/QtQmlMeta -isystem D:/Qt/6.9.0/mingw_64/include/QtQmlModels -isystem D:/Qt/6.9.0/mingw_64/include/QtQmlWorkerScript -isystem D:/Qt/6.9.0/mingw_64/include/QtOpenGL
+  OBJECT_DIR = CMakeFiles\appSonne_Test.dir
+  OBJECT_FILE_DIR = CMakeFiles\appSonne_Test.dir\build\Desktop_Qt_6_9_0_MinGW_64_bit-Debug\.rcc\qmlcache
+
 build CMakeFiles/appSonne_Test.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSonne_Test_raw_qml_0.cpp.obj: CXX_COMPILER__appSonne_Test_unscanned_Debug D$:/Qt$ files/Sonne$ Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSonne_Test_raw_qml_0.cpp || cmake_object_order_depends_target_appSonne_Test
   DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QMLMETA_LIB -DQT_QMLMODELS_LIB -DQT_QMLWORKERSCRIPT_LIB -DQT_QML_LIB -DQT_QUICK_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\appSonne_Test.dir\build\Desktop_Qt_6_9_0_MinGW_64_bit-Debug\.qt\rcc\qrc_appSonne_Test_raw_qml_0.cpp.obj.d
@@ -113,7 +121,7 @@ build CMakeFiles/appSonne_Test.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt
 #############################################
 # Link the executable appSonne_Test.exe
 
-build appSonne_Test.exe: CXX_EXECUTABLE_LINKER__appSonne_Test_Debug CMakeFiles/appSonne_Test.dir/appSonne_Test_autogen/mocs_compilation.cpp.obj CMakeFiles/appSonne_Test.dir/main.cpp.obj CMakeFiles/appSonne_Test.dir/appsonne_test_qmltyperegistrations.cpp.obj CMakeFiles/appSonne_Test.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_Sonne_Test.cpp.obj CMakeFiles/appSonne_Test.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSonne_Test_qmlcache_loader.cpp.obj CMakeFiles/appSonne_Test.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSonne_Test_Main_qml.cpp.obj CMakeFiles/appSonne_Test.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSonne_Test_raw_qml_0.cpp.obj | D$:/Qt/6.9.0/mingw_64/lib/libQt6Quick.a D$:/Qt/6.9.0/mingw_64/lib/libQt6QmlMeta.a D$:/Qt/6.9.0/mingw_64/lib/libQt6QmlWorkerScript.a D$:/Qt/6.9.0/mingw_64/lib/libQt6QmlModels.a D$:/Qt/6.9.0/mingw_64/lib/libQt6Qml.a D$:/Qt/6.9.0/mingw_64/lib/libQt6Network.a D$:/Qt/6.9.0/mingw_64/lib/libQt6OpenGL.a D$:/Qt/6.9.0/mingw_64/lib/libQt6Gui.a D$:/Qt/6.9.0/mingw_64/lib/libQt6Core.a D$:/Qt/6.9.0/mingw_64/lib/libQt6EntryPoint.a || appSonne_Test_autogen appSonne_Test_autogen_timestamp_deps appSonne_Test_copy_qml appSonne_Test_copy_res appSonne_Test_qmlimportscan
+build appSonne_Test.exe: CXX_EXECUTABLE_LINKER__appSonne_Test_Debug CMakeFiles/appSonne_Test.dir/appSonne_Test_autogen/mocs_compilation.cpp.obj CMakeFiles/appSonne_Test.dir/Main.cpp.obj CMakeFiles/appSonne_Test.dir/appsonne_test_qmltyperegistrations.cpp.obj CMakeFiles/appSonne_Test.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_Sonne_Test.cpp.obj CMakeFiles/appSonne_Test.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSonne_Test_qmlcache_loader.cpp.obj CMakeFiles/appSonne_Test.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSonne_Test_Main_qml.cpp.obj CMakeFiles/appSonne_Test.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSonne_Test_Sonnenstand_qml.cpp.obj CMakeFiles/appSonne_Test.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSonne_Test_raw_qml_0.cpp.obj | D$:/Qt/6.9.0/mingw_64/lib/libQt6Quick.a D$:/Qt/6.9.0/mingw_64/lib/libQt6QmlMeta.a D$:/Qt/6.9.0/mingw_64/lib/libQt6QmlWorkerScript.a D$:/Qt/6.9.0/mingw_64/lib/libQt6QmlModels.a D$:/Qt/6.9.0/mingw_64/lib/libQt6Qml.a D$:/Qt/6.9.0/mingw_64/lib/libQt6Network.a D$:/Qt/6.9.0/mingw_64/lib/libQt6OpenGL.a D$:/Qt/6.9.0/mingw_64/lib/libQt6Gui.a D$:/Qt/6.9.0/mingw_64/lib/libQt6Core.a D$:/Qt/6.9.0/mingw_64/lib/libQt6EntryPoint.a || appSonne_Test_autogen appSonne_Test_autogen_timestamp_deps appSonne_Test_copy_qml appSonne_Test_copy_res appSonne_Test_qmlimportscan
   FLAGS = -DQT_QML_DEBUG -g
   LINK_FLAGS = -mwindows
   LINK_LIBRARIES = D:/Qt/6.9.0/mingw_64/lib/libQt6Quick.a  D:/Qt/6.9.0/mingw_64/lib/libQt6QmlMeta.a  D:/Qt/6.9.0/mingw_64/lib/libQt6QmlWorkerScript.a  D:/Qt/6.9.0/mingw_64/lib/libQt6QmlModels.a  D:/Qt/6.9.0/mingw_64/lib/libQt6Qml.a  D:/Qt/6.9.0/mingw_64/lib/libQt6Network.a  -lws2_32  D:/Qt/6.9.0/mingw_64/lib/libQt6OpenGL.a  D:/Qt/6.9.0/mingw_64/lib/libQt6Gui.a  D:/Qt/6.9.0/mingw_64/lib/libQt6Core.a  -lmpr  -luserenv  -lmingw32  D:/Qt/6.9.0/mingw_64/lib/libQt6EntryPoint.a  -lshell32  -ld3d11  -ldxgi  -ldxguid  -ld3d12  -luser32  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
@@ -188,13 +196,13 @@ build appSonne_Test_copy_res: phony CMakeFiles/appSonne_Test_copy_res .qt/appSon
 #############################################
 # Utility command for module_appSonne_Test_aotstats_target
 
-build module_appSonne_Test_aotstats_target: phony CMakeFiles/module_appSonne_Test_aotstats_target .rcc/qmlcache/module_appSonne_Test.aotstats .rcc/qmlcache/appSonne_Test_Main_qml.cpp .rcc/qmlcache/appSonne_Test_Main_qml.cpp.aotstats appsonne_test_qmltyperegistrations.cpp Sonne_Test/appSonne_Test.qmltypes appSonne_Test_qmltyperegistration
+build module_appSonne_Test_aotstats_target: phony CMakeFiles/module_appSonne_Test_aotstats_target .rcc/qmlcache/module_appSonne_Test.aotstats .rcc/qmlcache/appSonne_Test_Main_qml.cpp .rcc/qmlcache/appSonne_Test_Main_qml.cpp.aotstats .rcc/qmlcache/appSonne_Test_Sonnenstand_qml.cpp .rcc/qmlcache/appSonne_Test_Sonnenstand_qml.cpp.aotstats appsonne_test_qmltyperegistrations.cpp Sonne_Test/appSonne_Test.qmltypes appSonne_Test_qmltyperegistration
 
 
 #############################################
 # Utility command for all_aotstats
 
-build all_aotstats: phony CMakeFiles/all_aotstats .rcc/qmlcache/all_aotstats.aotstats .rcc/qmlcache/all_aotstats.txt .rcc/qmlcache/module_appSonne_Test.aotstats .rcc/qmlcache/appSonne_Test_Main_qml.cpp .rcc/qmlcache/appSonne_Test_Main_qml.cpp.aotstats appsonne_test_qmltyperegistrations.cpp Sonne_Test/appSonne_Test.qmltypes module_appSonne_Test_aotstats_target
+build all_aotstats: phony CMakeFiles/all_aotstats .rcc/qmlcache/all_aotstats.aotstats .rcc/qmlcache/all_aotstats.txt .rcc/qmlcache/module_appSonne_Test.aotstats .rcc/qmlcache/appSonne_Test_Main_qml.cpp .rcc/qmlcache/appSonne_Test_Main_qml.cpp.aotstats .rcc/qmlcache/appSonne_Test_Sonnenstand_qml.cpp .rcc/qmlcache/appSonne_Test_Sonnenstand_qml.cpp.aotstats appsonne_test_qmltyperegistrations.cpp Sonne_Test/appSonne_Test.qmltypes module_appSonne_Test_aotstats_target
 
 
 #############################################
@@ -327,9 +335,18 @@ build .rcc/qmlcache/appSonne_Test_Main_qml.cpp .rcc/qmlcache/appSonne_Test_Main_
 
 
 #############################################
+# Custom command for .rcc\qmlcache\appSonne_Test_Sonnenstand_qml.cpp
+
+build .rcc/qmlcache/appSonne_Test_Sonnenstand_qml.cpp .rcc/qmlcache/appSonne_Test_Sonnenstand_qml.cpp.aotstats | ${cmake_ninja_workdir}.rcc/qmlcache/appSonne_Test_Sonnenstand_qml.cpp ${cmake_ninja_workdir}.rcc/qmlcache/appSonne_Test_Sonnenstand_qml.cpp.aotstats: CUSTOM_COMMAND D$:/Qt/6.9.0/mingw_64/bin/qmlcachegen.exe D$:/Qt$ files/Sonne$ Test/Sonne_Test/Sonnenstand.qml .qt/rcc/qmake_Sonne_Test.qrc .qt/rcc/appSonne_Test_raw_qml_0.qrc Sonne_Test/appSonne_Test.qmltypes Sonne_Test/qmldir
+  COMMAND = C:\WINDOWS\system32\cmd.exe /C "cd /D "D:\Qt files\Sonne Test\Sonne_Test\build\Desktop_Qt_6_9_0_MinGW_64_bit-Debug" && D:\Qt\Tools\CMake_64\bin\cmake.exe -E make_directory "D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache" && "D:\Qt files\Sonne Test\Sonne_Test\build\Desktop_Qt_6_9_0_MinGW_64_bit-Debug\.qt\bin\qt_setup_tool_path.bat" D:/Qt/6.9.0/mingw_64/bin/qmlcachegen.exe --bare --resource-path /qt/qml/Sonne_Test/Sonnenstand.qml -I "D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug" -I D:/Qt/6.9.0/mingw_64/qml -i "D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Sonne_Test/qmldir" --resource "D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qmake_Sonne_Test.qrc" --resource "D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/appSonne_Test_raw_qml_0.qrc" --dump-aot-stats --module-id=Sonne_Test(appSonne_Test) -o "D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSonne_Test_Sonnenstand_qml.cpp" "D:/Qt files/Sonne Test/Sonne_Test/Sonnenstand.qml""
+  DESC = Generating .rcc/qmlcache/appSonne_Test_Sonnenstand_qml.cpp, .rcc/qmlcache/appSonne_Test_Sonnenstand_qml.cpp.aotstats
+  restat = 1
+
+
+#############################################
 # Custom command for .qt\rcc\qrc_appSonne_Test_raw_qml_0.cpp
 
-build .qt/rcc/qrc_appSonne_Test_raw_qml_0.cpp | ${cmake_ninja_workdir}.qt/rcc/qrc_appSonne_Test_raw_qml_0.cpp: CUSTOM_COMMAND D$:/Qt$ files/Sonne$ Test/Sonne_Test/Main.qml D$:/Qt$ files/Sonne$ Test/Sonne_Test/sonne.gitignore .qt/rcc/appSonne_Test_raw_qml_0.qrc D$:/Qt/6.9.0/mingw_64/bin/rcc.exe || appSonne_Test_autogen appSonne_Test_autogen_timestamp_deps appSonne_Test_copy_qml appSonne_Test_copy_res appSonne_Test_qmlimportscan
+build .qt/rcc/qrc_appSonne_Test_raw_qml_0.cpp | ${cmake_ninja_workdir}.qt/rcc/qrc_appSonne_Test_raw_qml_0.cpp: CUSTOM_COMMAND D$:/Qt$ files/Sonne$ Test/Sonne_Test/Main.qml D$:/Qt$ files/Sonne$ Test/Sonne_Test/Sonnenstand.qml D$:/Qt$ files/Sonne$ Test/Sonne_Test/sonne.gitignore D$:/Qt$ files/Sonne$ Test/Sonne_Test/images/raindrop.png D$:/Qt$ files/Sonne$ Test/Sonne_Test/ressources.qrc .qt/rcc/appSonne_Test_raw_qml_0.qrc D$:/Qt/6.9.0/mingw_64/bin/rcc.exe || appSonne_Test_autogen appSonne_Test_autogen_timestamp_deps appSonne_Test_copy_qml appSonne_Test_copy_res appSonne_Test_qmlimportscan
   COMMAND = C:\WINDOWS\system32\cmd.exe /C "cd /D "D:\Qt files\Sonne Test\Sonne_Test\build\Desktop_Qt_6_9_0_MinGW_64_bit-Debug" && D:\Qt\6.9.0\mingw_64\bin\rcc.exe --output "D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSonne_Test_raw_qml_0.cpp" --name appSonne_Test_raw_qml_0 "D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/appSonne_Test_raw_qml_0.qrc" --no-zstd"
   DESC = Running rcc for resource appSonne_Test_raw_qml_0
   restat = 1
@@ -364,21 +381,21 @@ build CMakeFiles/appSonne_Test_qmltyperegistration | ${cmake_ninja_workdir}CMake
 #############################################
 # Custom command for CMakeFiles\appSonne_Test_qmllint
 
-build CMakeFiles/appSonne_Test_qmllint | ${cmake_ninja_workdir}CMakeFiles/appSonne_Test_qmllint: CUSTOM_COMMAND D$:/Qt/6.9.0/mingw_64/bin/qmllint.exe D$:/Qt$ files/Sonne$ Test/Sonne_Test/Main.qml .rcc/qmllint/appSonne_Test.rsp || all_qmltyperegistrations appSonne_Test_qmltyperegistration
+build CMakeFiles/appSonne_Test_qmllint | ${cmake_ninja_workdir}CMakeFiles/appSonne_Test_qmllint: CUSTOM_COMMAND D$:/Qt/6.9.0/mingw_64/bin/qmllint.exe D$:/Qt$ files/Sonne$ Test/Sonne_Test/Main.qml D$:/Qt$ files/Sonne$ Test/Sonne_Test/Sonnenstand.qml .rcc/qmllint/appSonne_Test.rsp || all_qmltyperegistrations appSonne_Test_qmltyperegistration
   COMMAND = C:\WINDOWS\system32\cmd.exe /C "cd /D "D:\Qt files\Sonne Test\Sonne_Test" && "D:\Qt files\Sonne Test\Sonne_Test\build\Desktop_Qt_6_9_0_MinGW_64_bit-Debug\.qt\bin\qt_setup_tool_path.bat" D:/Qt/6.9.0/mingw_64/bin/qmllint.exe "@D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmllint/appSonne_Test.rsp""
 
 
 #############################################
 # Custom command for CMakeFiles\appSonne_Test_qmllint_json
 
-build CMakeFiles/appSonne_Test_qmllint_json | ${cmake_ninja_workdir}CMakeFiles/appSonne_Test_qmllint_json: CUSTOM_COMMAND D$:/Qt/6.9.0/mingw_64/bin/qmllint.exe D$:/Qt$ files/Sonne$ Test/Sonne_Test/Main.qml .rcc/qmllint/appSonne_Test_json.rsp || all_qmltyperegistrations appSonne_Test_qmltyperegistration
+build CMakeFiles/appSonne_Test_qmllint_json | ${cmake_ninja_workdir}CMakeFiles/appSonne_Test_qmllint_json: CUSTOM_COMMAND D$:/Qt/6.9.0/mingw_64/bin/qmllint.exe D$:/Qt$ files/Sonne$ Test/Sonne_Test/Main.qml D$:/Qt$ files/Sonne$ Test/Sonne_Test/Sonnenstand.qml .rcc/qmllint/appSonne_Test_json.rsp || all_qmltyperegistrations appSonne_Test_qmltyperegistration
   COMMAND = C:\WINDOWS\system32\cmd.exe /C "cd /D "D:\Qt files\Sonne Test\Sonne_Test" && "D:\Qt files\Sonne Test\Sonne_Test\build\Desktop_Qt_6_9_0_MinGW_64_bit-Debug\.qt\bin\qt_setup_tool_path.bat" D:/Qt/6.9.0/mingw_64/bin/qmllint.exe "@D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmllint/appSonne_Test_json.rsp""
 
 
 #############################################
 # Custom command for CMakeFiles\appSonne_Test_qmllint_module
 
-build CMakeFiles/appSonne_Test_qmllint_module | ${cmake_ninja_workdir}CMakeFiles/appSonne_Test_qmllint_module: CUSTOM_COMMAND D$:/Qt/6.9.0/mingw_64/bin/qmllint.exe D$:/Qt$ files/Sonne$ Test/Sonne_Test/Main.qml .rcc/qmllint/appSonne_Test_module.rsp || all_qmltyperegistrations appSonne_Test_qmltyperegistration
+build CMakeFiles/appSonne_Test_qmllint_module | ${cmake_ninja_workdir}CMakeFiles/appSonne_Test_qmllint_module: CUSTOM_COMMAND D$:/Qt/6.9.0/mingw_64/bin/qmllint.exe D$:/Qt$ files/Sonne$ Test/Sonne_Test/Main.qml D$:/Qt$ files/Sonne$ Test/Sonne_Test/Sonnenstand.qml .rcc/qmllint/appSonne_Test_module.rsp || all_qmltyperegistrations appSonne_Test_qmltyperegistration
   COMMAND = C:\WINDOWS\system32\cmd.exe /C "cd /D "D:\Qt files\Sonne Test\Sonne_Test" && "D:\Qt files\Sonne Test\Sonne_Test\build\Desktop_Qt_6_9_0_MinGW_64_bit-Debug\.qt\bin\qt_setup_tool_path.bat" D:/Qt/6.9.0/mingw_64/bin/qmllint.exe "@D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmllint/appSonne_Test_module.rsp""
 
 
@@ -391,7 +408,7 @@ build CMakeFiles/appSonne_Test_copy_qml | ${cmake_ninja_workdir}CMakeFiles/appSo
 #############################################
 # Custom command for .qt\appSonne_Test_qml.txt
 
-build .qt/appSonne_Test_qml.txt | ${cmake_ninja_workdir}.qt/appSonne_Test_qml.txt: CUSTOM_COMMAND D$:/Qt/6.9.0/mingw_64/lib/cmake/Qt6Qml/Qt6QmlCopyFiles.cmake D$:/Qt$ files/Sonne$ Test/Sonne_Test/Main.qml
+build .qt/appSonne_Test_qml.txt | ${cmake_ninja_workdir}.qt/appSonne_Test_qml.txt: CUSTOM_COMMAND D$:/Qt/6.9.0/mingw_64/lib/cmake/Qt6Qml/Qt6QmlCopyFiles.cmake D$:/Qt$ files/Sonne$ Test/Sonne_Test/Main.qml D$:/Qt$ files/Sonne$ Test/Sonne_Test/Sonnenstand.qml
   COMMAND = C:\WINDOWS\system32\cmd.exe /C "cd /D "D:\Qt files\Sonne Test\Sonne_Test\build\Desktop_Qt_6_9_0_MinGW_64_bit-Debug" && D:\Qt\Tools\CMake_64\bin\cmake.exe "-DFILES_INFO_PATH=D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appSonne_Test_qml.cmake" -P D:/Qt/6.9.0/mingw_64/lib/cmake/Qt6Qml/Qt6QmlCopyFiles.cmake"
   DESC = Copying appSonne_Test qml sources into build dir
   restat = 1
@@ -406,7 +423,7 @@ build CMakeFiles/appSonne_Test_copy_res | ${cmake_ninja_workdir}CMakeFiles/appSo
 #############################################
 # Custom command for .qt\appSonne_Test_res.txt
 
-build .qt/appSonne_Test_res.txt | ${cmake_ninja_workdir}.qt/appSonne_Test_res.txt: CUSTOM_COMMAND D$:/Qt/6.9.0/mingw_64/lib/cmake/Qt6Qml/Qt6QmlCopyFiles.cmake D$:/Qt$ files/Sonne$ Test/Sonne_Test/sonne.gitignore
+build .qt/appSonne_Test_res.txt | ${cmake_ninja_workdir}.qt/appSonne_Test_res.txt: CUSTOM_COMMAND D$:/Qt/6.9.0/mingw_64/lib/cmake/Qt6Qml/Qt6QmlCopyFiles.cmake D$:/Qt$ files/Sonne$ Test/Sonne_Test/sonne.gitignore D$:/Qt$ files/Sonne$ Test/Sonne_Test/images/raindrop.png D$:/Qt$ files/Sonne$ Test/Sonne_Test/ressources.qrc
   COMMAND = C:\WINDOWS\system32\cmd.exe /C "cd /D "D:\Qt files\Sonne Test\Sonne_Test\build\Desktop_Qt_6_9_0_MinGW_64_bit-Debug" && D:\Qt\Tools\CMake_64\bin\cmake.exe "-DFILES_INFO_PATH=D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appSonne_Test_res.cmake" -P D:/Qt/6.9.0/mingw_64/lib/cmake/Qt6Qml/Qt6QmlCopyFiles.cmake"
   DESC = Copying appSonne_Test qml resources into build dir
   restat = 1
@@ -421,7 +438,7 @@ build CMakeFiles/module_appSonne_Test_aotstats_target | ${cmake_ninja_workdir}CM
 #############################################
 # Custom command for .rcc\qmlcache\module_appSonne_Test.aotstats
 
-build .rcc/qmlcache/module_appSonne_Test.aotstats | ${cmake_ninja_workdir}.rcc/qmlcache/module_appSonne_Test.aotstats: CUSTOM_COMMAND .rcc/qmlcache/appSonne_Test_Main_qml.cpp.aotstats .rcc/qmlcache/module_appSonne_Test.aotstatslist || appSonne_Test_qmltyperegistration
+build .rcc/qmlcache/module_appSonne_Test.aotstats | ${cmake_ninja_workdir}.rcc/qmlcache/module_appSonne_Test.aotstats: CUSTOM_COMMAND .rcc/qmlcache/appSonne_Test_Main_qml.cpp.aotstats .rcc/qmlcache/appSonne_Test_Sonnenstand_qml.cpp.aotstats .rcc/qmlcache/module_appSonne_Test.aotstatslist || appSonne_Test_qmltyperegistration
   COMMAND = C:\WINDOWS\system32\cmd.exe /C "cd /D "D:\Qt files\Sonne Test\Sonne_Test\build\Desktop_Qt_6_9_0_MinGW_64_bit-Debug" && "D:\Qt files\Sonne Test\Sonne_Test\build\Desktop_Qt_6_9_0_MinGW_64_bit-Debug\.qt\bin\qt_setup_tool_path.bat" D:/Qt/6.9.0/mingw_64/bin/qmlaotstats.exe aggregate "D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/module_appSonne_Test.aotstatslist" "D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/module_appSonne_Test.aotstats""
   DESC = Generating .rcc/qmlcache/module_appSonne_Test.aotstats
   restat = 1
@@ -452,7 +469,7 @@ build CMakeFiles/appSonne_Test_qmlimportscan | ${cmake_ninja_workdir}CMakeFiles/
 #############################################
 # Custom command for .qt\qml_imports\appSonne_Test_build.cmake
 
-build .qt/qml_imports/appSonne_Test_build.cmake | ${cmake_ninja_workdir}.qt/qml_imports/appSonne_Test_build.cmake: CUSTOM_COMMAND D$:/Qt/6.9.0/mingw_64/bin/qmlimportscanner.exe .qt/rcc/qmake_Sonne_Test.qrc .qt/rcc/appSonne_Test_raw_qml_0.qrc D$:/Qt$ files/Sonne$ Test/Sonne_Test/Main.qml
+build .qt/qml_imports/appSonne_Test_build.cmake | ${cmake_ninja_workdir}.qt/qml_imports/appSonne_Test_build.cmake: CUSTOM_COMMAND D$:/Qt/6.9.0/mingw_64/bin/qmlimportscanner.exe .qt/rcc/qmake_Sonne_Test.qrc .qt/rcc/appSonne_Test_raw_qml_0.qrc D$:/Qt$ files/Sonne$ Test/Sonne_Test/Main.qml D$:/Qt$ files/Sonne$ Test/Sonne_Test/Sonnenstand.qml
   COMMAND = C:\WINDOWS\system32\cmd.exe /C "cd /D "D:\Qt files\Sonne Test\Sonne_Test" && "D:\Qt files\Sonne Test\Sonne_Test\build\Desktop_Qt_6_9_0_MinGW_64_bit-Debug\.qt\bin\qt_setup_tool_path.bat" D:/Qt/6.9.0/mingw_64/bin/qmlimportscanner.exe "@D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appSonne_Test_build.rsp""
   DESC = Running qmlimportscanner for appSonne_Test
   restat = 1

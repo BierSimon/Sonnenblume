@@ -1,41 +1,92 @@
 # ninja log v6
-61	445	7663256798741414	.qt/appSonne_Test_qml.txt	763afb8c9d98f7cc
-945	1094	7662578982664084	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appsonne_test_debug_metatypes.json	376260b4f9822d0b
-95	1395	7663256808245497	.qt/qml_imports/appSonne_Test_build.cmake	70f04eac52322dcc
-61	445	7663256798741414	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appSonne_Test_qml.txt	763afb8c9d98f7cc
-20	93	7662578972650536	.qt/appSonne_Test_res.txt	315f8e93a7fd529
-20	93	7662578972650536	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appSonne_Test_res.txt	315f8e93a7fd529
-1730	2085	7662578989104410	CMakeFiles/appSonne_Test.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_Sonne_Test.cpp.obj	e09d3fa43f415d48
-652	829	7662578980007168	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_Sonne_Test.cpp	b90cf43200fc6725
-95	1395	7663256808245497	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appSonne_Test_build.cmake	70f04eac52322dcc
-325	637	7662578976906966	appSonne_Test_autogen/timestamp	2ef12ccd5be690ee
-325	637	7662578976906966	appSonne_Test_autogen/mocs_compilation.cpp	2ef12ccd5be690ee
-325	637	7662578976906966	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appSonne_Test_autogen/timestamp	2ef12ccd5be690ee
-325	637	7662578976906966	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appSonne_Test_autogen/mocs_compilation.cpp	2ef12ccd5be690ee
-1405	1487	7663256809200226	.qt/rcc/qrc_appSonne_Test_raw_qml_0.cpp	1651115169b24615
-642	945	7662578981178202	meta_types/appSonne_Test_json_file_list.txt.timestamp	4d842cc8b4087289
-1395	1574	7663256809978749	.rcc/qmlcache/appSonne_Test_Main_qml.cpp	c0c716cdc0318c8f
-652	829	7662578980007168	.qt/rcc/qrc_qmake_Sonne_Test.cpp	b90cf43200fc6725
-945	1094	7662578982664084	meta_types/qt6appsonne_test_debug_metatypes.json	376260b4f9822d0b
-1405	1487	7663256809200226	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSonne_Test_raw_qml_0.cpp	1651115169b24615
-1094	1508	7662578985885402	appsonne_test_qmltyperegistrations.cpp	f5f551075a9a2299
-663	905	7662578980733386	.rcc/qmlcache/appSonne_Test_qmlcache_loader.cpp	8f93bb7b202ad209
-663	905	7662578980733386	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSonne_Test_qmlcache_loader.cpp	8f93bb7b202ad209
-642	945	7662578981178202	meta_types/appSonne_Test_json_file_list.txt	4d842cc8b4087289
-642	945	7662578981178202	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appSonne_Test_json_file_list.txt	4d842cc8b4087289
-642	945	7662578981178202	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appSonne_Test_json_file_list.txt.timestamp	4d842cc8b4087289
-945	1094	7662578982664084	meta_types/qt6appsonne_test_debug_metatypes.json.gen	376260b4f9822d0b
-4069	5722	7663256835091891	appSonne_Test.exe	5935f8d27d5722f2
-945	1094	7662578982664084	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appsonne_test_debug_metatypes.json.gen	376260b4f9822d0b
-1094	1508	7662578985885402	Sonne_Test/appSonne_Test.qmltypes	f5f551075a9a2299
-1094	1508	7662578985885402	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appsonne_test_qmltyperegistrations.cpp	f5f551075a9a2299
-1094	1508	7662578985885402	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Sonne_Test/appSonne_Test.qmltypes	f5f551075a9a2299
-1757	8086	7662578989358595	CMakeFiles/appSonne_Test.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSonne_Test_qmlcache_loader.cpp.obj	422e7607fe3733b2
-1395	1574	7663256809978749	.rcc/qmlcache/appSonne_Test_Main_qml.cpp.aotstats	c0c716cdc0318c8f
-1395	1574	7663256809978749	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSonne_Test_Main_qml.cpp	c0c716cdc0318c8f
-1690	2001	7662578988686630	CMakeFiles/appSonne_Test.dir/appSonne_Test_autogen/mocs_compilation.cpp.obj	7e4c18ea596c1bce
-1395	1574	7663256809978749	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSonne_Test_Main_qml.cpp.aotstats	c0c716cdc0318c8f
-1579	1977	7663256810188750	CMakeFiles/appSonne_Test.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSonne_Test_raw_qml_0.cpp.obj	14be0803697b7591
-1716	7248	7662578988948504	CMakeFiles/appSonne_Test.dir/appsonne_test_qmltyperegistrations.cpp.obj	70804d5951a65fd8
-1574	4069	7663256810138785	CMakeFiles/appSonne_Test.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSonne_Test_Main_qml.cpp.obj	2a448b87082408e1
+793	1119	7666929346575161	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appsonne_test_debug_metatypes.json	376260b4f9822d0b
+49	333	7666953578693337	.qt/qml_imports/appSonne_Test_build.cmake	70f04eac52322dcc
+33	83	7666953576176901	.qt/appSonne_Test_qml.txt	763afb8c9d98f7cc
+33	83	7666953576176901	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appSonne_Test_qml.txt	763afb8c9d98f7cc
+63	133	7666950680906557	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appSonne_Test_res.txt	315f8e93a7fd529
+63	133	7666950680906557	.qt/appSonne_Test_res.txt	315f8e93a7fd529
+1652	1921	7666929351987706	CMakeFiles/appSonne_Test.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_Sonne_Test.cpp.obj	e09d3fa43f415d48
+711	761	7666929342980441	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_Sonne_Test.cpp	b90cf43200fc6725
+49	333	7666953578693337	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appSonne_Test_build.cmake	70f04eac52322dcc
+333	471	7666953578792427	appSonne_Test_autogen/timestamp	2ef12ccd5be690ee
+333	471	7666953578792427	appSonne_Test_autogen/mocs_compilation.cpp	2ef12ccd5be690ee
+333	471	7666953578792427	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appSonne_Test_autogen/timestamp	2ef12ccd5be690ee
+510	677	7666953581875982	.rcc/qmlcache/appSonne_Test_Main_qml.cpp	c0c716cdc0318c8f
+472	510	7666953580180064	meta_types/appSonne_Test_json_file_list.txt.timestamp	4d842cc8b4087289
+490	538	7666953580730191	.qt/rcc/qrc_appSonne_Test_raw_qml_0.cpp	1651115169b24615
+333	471	7666953578792427	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appSonne_Test_autogen/mocs_compilation.cpp	2ef12ccd5be690ee
+793	1119	7666929346575161	meta_types/qt6appsonne_test_debug_metatypes.json	376260b4f9822d0b
+711	761	7666929342980441	.qt/rcc/qrc_qmake_Sonne_Test.cpp	b90cf43200fc6725
+529	683	7666953582032389	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSonne_Test_Regen_qml.cpp	e8b7e44c773a567b
+1119	1429	7666929348996279	appsonne_test_qmltyperegistrations.cpp	f5f551075a9a2299
+490	538	7666953580730191	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSonne_Test_raw_qml_0.cpp	1651115169b24615
+480	586	7666953580698872	.rcc/qmlcache/appSonne_Test_qmlcache_loader.cpp	8f93bb7b202ad209
+480	586	7666953580698872	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSonne_Test_qmlcache_loader.cpp	8f93bb7b202ad209
+691	3574	7666953582363483	CMakeFiles/appSonne_Test.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSonne_Test_Sonnenstand_qml.cpp.obj	6a628e8f444c53be
+472	510	7666953580180064	meta_types/appSonne_Test_json_file_list.txt	4d842cc8b4087289
+472	510	7666953580180064	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appSonne_Test_json_file_list.txt	4d842cc8b4087289
+472	510	7666953580180064	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appSonne_Test_json_file_list.txt.timestamp	4d842cc8b4087289
+489	735	7665230872345318	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSonne_Test_main_qml.cpp	c0c716cdc0318c8f
+3934	4258	7666953614808672	appSonne_Test.exe	4862c2cffd730912
+793	1119	7666929346575161	meta_types/qt6appsonne_test_debug_metatypes.json.gen	376260b4f9822d0b
+519	682	7666953581875982	.rcc/qmlcache/appSonne_Test_Sonnenstand_qml.cpp	4636edbdf5a8a136
+793	1119	7666929346575161	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6appsonne_test_debug_metatypes.json.gen	376260b4f9822d0b
+1119	1429	7666929348996279	Sonne_Test/appSonne_Test.qmltypes	f5f551075a9a2299
+529	683	7666953582032389	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSonne_Test_Regen_qml.cpp.aotstats	e8b7e44c773a567b
+519	682	7666953581875982	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSonne_Test_Sonnenstand_qml.cpp	4636edbdf5a8a136
+1119	1429	7666929348996279	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appsonne_test_qmltyperegistrations.cpp	f5f551075a9a2299
+683	3934	7666953582293214	CMakeFiles/appSonne_Test.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSonne_Test_qmlcache_loader.cpp.obj	422e7607fe3733b2
+1119	1429	7666929348996279	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Sonne_Test/appSonne_Test.qmltypes	f5f551075a9a2299
+510	677	7666953581875982	.rcc/qmlcache/appSonne_Test_Main_qml.cpp.aotstats	c0c716cdc0318c8f
+1638	1866	7666929351846739	CMakeFiles/appSonne_Test.dir/appSonne_Test_autogen/mocs_compilation.cpp.obj	7e4c18ea596c1bce
+510	677	7666953581875982	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSonne_Test_Main_qml.cpp	c0c716cdc0318c8f
+510	677	7666953581875982	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSonne_Test_Main_qml.cpp.aotstats	c0c716cdc0318c8f
+529	683	7666953582032389	.rcc/qmlcache/appSonne_Test_Regen_qml.cpp.aotstats	e8b7e44c773a567b
+699	808	7666953582435517	CMakeFiles/appSonne_Test.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSonne_Test_raw_qml_0.cpp.obj	14be0803697b7591
+1648	4968	7666929351951506	CMakeFiles/appSonne_Test.dir/appsonne_test_qmltyperegistrations.cpp.obj	70804d5951a65fd8
+687	3399	7666953582335130	CMakeFiles/appSonne_Test.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSonne_Test_Main_qml.cpp.obj	2a448b87082408e1
 1710	7460	7662578988888583	CMakeFiles/appSonne_Test.dir/main.cpp.obj	a6d868f790f6d2d7
+519	682	7666953581875982	.rcc/qmlcache/appSonne_Test_Sonnenstand_qml.cpp.aotstats	4636edbdf5a8a136
+519	682	7666953581875982	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSonne_Test_Sonnenstand_qml.cpp.aotstats	4636edbdf5a8a136
+489	735	7665230872345318	.rcc/qmlcache/appSonne_Test_main_qml.cpp	c0c716cdc0318c8f
+758	3815	7665230872952552	CMakeFiles/appSonne_Test.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSonne_Test_main_qml.cpp.obj	4e291ee2cf89969d
+1643	5289	7666929351900213	CMakeFiles/appSonne_Test.dir/Main.cpp.obj	fe502354ef5380f6
+529	683	7666953582032389	.rcc/qmlcache/appSonne_Test_Regen_qml.cpp	e8b7e44c773a567b
+695	3634	7666953582398073	CMakeFiles/appSonne_Test.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSonne_Test_Regen_qml.cpp.obj	c9880f0b061df59
+23	53	7666929334212718	CMakeFiles/clean.additional	adcc2f785672e3a3
+53	70	7666929334526517	clean	101d0f6048d5fe99
+10	1569	7666968611673184	build.ninja	7c03e5f604b5e7b3
+36	88	7666968615412689	.qt/appSonne_Test_res.txt	315f8e93a7fd529
+36	88	7666968615412689	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appSonne_Test_res.txt	315f8e93a7fd529
+29	88	7666968615412689	.qt/appSonne_Test_qml.txt	763afb8c9d98f7cc
+29	88	7666968615412689	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appSonne_Test_qml.txt	763afb8c9d98f7cc
+45	344	7666968617860416	.qt/qml_imports/appSonne_Test_build.cmake	70f04eac52322dcc
+45	344	7666968617860416	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appSonne_Test_build.cmake	70f04eac52322dcc
+345	506	7666968618110775	appSonne_Test_autogen/timestamp	2ef12ccd5be690ee
+345	506	7666968618110775	appSonne_Test_autogen/mocs_compilation.cpp	2ef12ccd5be690ee
+345	506	7666968618110775	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appSonne_Test_autogen/timestamp	2ef12ccd5be690ee
+345	506	7666968618110775	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appSonne_Test_autogen/mocs_compilation.cpp	2ef12ccd5be690ee
+531	670	7666968621178423	.qt/rcc/qrc_appSonne_Test_raw_qml_0.cpp	1651115169b24615
+531	670	7666968621178423	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSonne_Test_raw_qml_0.cpp	1651115169b24615
+513	678	7666968621336960	.qt/rcc/qrc_qmake_Sonne_Test.cpp	b90cf43200fc6725
+513	678	7666968621336960	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_Sonne_Test.cpp	b90cf43200fc6725
+520	690	7666968621417785	.rcc/qmlcache/appSonne_Test_qmlcache_loader.cpp	8f93bb7b202ad209
+520	690	7666968621417785	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSonne_Test_qmlcache_loader.cpp	8f93bb7b202ad209
+506	754	7666968619723390	meta_types/appSonne_Test_json_file_list.txt	4d842cc8b4087289
+506	754	7666968619723390	meta_types/appSonne_Test_json_file_list.txt.timestamp	4d842cc8b4087289
+506	754	7666968619723390	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appSonne_Test_json_file_list.txt	4d842cc8b4087289
+506	754	7666968619723390	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appSonne_Test_json_file_list.txt.timestamp	4d842cc8b4087289
+764	973	7666968624004775	.rcc/qmlcache/appSonne_Test_Sonnenstand_qml.cpp	4636edbdf5a8a136
+764	973	7666968624004775	.rcc/qmlcache/appSonne_Test_Sonnenstand_qml.cpp.aotstats	4636edbdf5a8a136
+764	973	7666968624004775	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSonne_Test_Sonnenstand_qml.cpp	4636edbdf5a8a136
+764	973	7666968624004775	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSonne_Test_Sonnenstand_qml.cpp.aotstats	4636edbdf5a8a136
+754	975	7666968624004775	.rcc/qmlcache/appSonne_Test_Main_qml.cpp	c0c716cdc0318c8f
+754	975	7666968624004775	.rcc/qmlcache/appSonne_Test_Main_qml.cpp.aotstats	c0c716cdc0318c8f
+754	975	7666968624004775	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSonne_Test_Main_qml.cpp	c0c716cdc0318c8f
+754	975	7666968624004775	D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSonne_Test_Main_qml.cpp.aotstats	c0c716cdc0318c8f
+975	1261	7666968624417768	CMakeFiles/appSonne_Test.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_Sonne_Test.cpp.obj	e09d3fa43f415d48
+1006	1273	7666968624671387	CMakeFiles/appSonne_Test.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSonne_Test_raw_qml_0.cpp.obj	14be0803697b7591
+993	3998	7666968624573332	CMakeFiles/appSonne_Test.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSonne_Test_Main_qml.cpp.obj	2a448b87082408e1
+1000	4125	7666968624638483	CMakeFiles/appSonne_Test.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSonne_Test_Sonnenstand_qml.cpp.obj	6a628e8f444c53be
+985	4884	7666968624507846	CMakeFiles/appSonne_Test.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSonne_Test_qmlcache_loader.cpp.obj	422e7607fe3733b2
+4884	6059	7666968663500254	appSonne_Test.exe	c4dccb890ee5cb92

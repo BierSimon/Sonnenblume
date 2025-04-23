@@ -966,6 +966,7 @@
 		"D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSonne_Test_raw_qml_0.cpp",
 		"D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_Sonne_Test.cpp",
 		"D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSonne_Test_Main_qml.cpp",
+		"D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSonne_Test_Sonnenstand_qml.cpp",
 		"D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSonne_Test_qmlcache_loader.cpp",
 		"D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appsonne_test_qmltyperegistrations.cpp"
 	],
@@ -979,7 +980,7 @@
 	"SETTINGS_FILE" : "D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/appSonne_Test_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
-		[ "D:/Qt files/Sonne Test/Sonne_Test/main.cpp", "MU", null ]
+		[ "D:/Qt files/Sonne Test/Sonne_Test/Main.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [],
@@ -988,6 +989,7 @@
 		"D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appSonne_Test_raw_qml_0.cpp",
 		"D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_Sonne_Test.cpp",
 		"D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSonne_Test_Main_qml.cpp",
+		"D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSonne_Test_Sonnenstand_qml.cpp",
 		"D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appSonne_Test_qmlcache_loader.cpp",
 		"D:/Qt files/Sonne Test/Sonne_Test/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appsonne_test_qmltyperegistrations.cpp"
 	],

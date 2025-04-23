@@ -9,15 +9,22 @@ find_package(Qt6 REQUIRED COMPONENTS Quick)
 qt_standard_project_setup(REQUIRES 6.8)
 
 qt_add_executable(appSonne_Test
-    main.cpp
+    Main.cpp
 )
 
 qt_add_qml_module(appSonne_Test
     URI Sonne_Test
     VERSION 1.0
     QML_FILES
-        Main.qml
+    Main.qml
         RESOURCES sonne.gitignore
+        QML_FILES Sonnenstand.qml
+        QML_FILES
+        RESOURCES images/raindrop.png
+        RESOURCES
+        RESOURCES
+        RESOURCES
+        RESOURCES ressources.qrc
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.
