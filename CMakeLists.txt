@@ -1,50 +1,49 @@
 cmake_minimum_required(VERSION 3.16)
 
-project(Sonne_Test VERSION 0.1 LANGUAGES CXX)
+project(Sonnenblume_morphen VERSION 0.1 LANGUAGES CXX)
 
+set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
+set(CMAKE_AUTOMOC ON)
 
-find_package(Qt6 REQUIRED COMPONENTS Quick)
 
-qt_standard_project_setup(REQUIRES 6.8)
+# Find required Qt packages
+find_package(Qt6 REQUIRED COMPONENTS Quick Qml)
 
-qt_add_executable(appSonne_Test
-    Main.cpp
+# Optional: SerialPort (für später)
+find_package(Qt6SerialPort QUIET)
+
+# Create the executable
+qt_add_executable(appSonnenblume_morphen
+    main.cpp
 )
 
-qt_add_qml_module(appSonne_Test
-    URI Sonne_Test
+# Wichtig: Automoc aktivieren für Q_OBJECT in main.cpp
+set_source_files_properties(main.cpp PROPERTIES SKIP_AUTOMOC OFF)
+
+# QML-Modul hinzufügen
+qt_add_qml_module(appSonnenblume_morphen
+    URI Sonnenblume_morphen
     VERSION 1.0
     QML_FILES
-    Main.qml
-        RESOURCES sonne.gitignore
-        QML_FILES Sonnenstand.qml
-        QML_FILES
-        RESOURCES images/raindrop.png
-        RESOURCES
-        RESOURCES
-        RESOURCES
-        RESOURCES ressources.qrc
+        Main.qml
+        RESOURCES images.qrc
 )
 
-# Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.
-# If you are developing for iOS or macOS you should consider setting an
-# explicit, fixed bundle identifier manually though.
-set_target_properties(appSonne_Test PROPERTIES
-#    MACOSX_BUNDLE_GUI_IDENTIFIER com.example.appSonne_Test
-    MACOSX_BUNDLE_BUNDLE_VERSION ${PROJECT_VERSION}
-    MACOSX_BUNDLE_SHORT_VERSION_STRING ${PROJECT_VERSION_MAJOR}.${PROJECT_VERSION_MINOR}
-    MACOSX_BUNDLE TRUE
-    WIN32_EXECUTABLE TRUE
+# Bibliotheken verlinken
+target_link_libraries(appSonnenblume_morphen
+    PRIVATE Qt6::Quick Qt6::Qml
 )
 
-target_link_libraries(appSonne_Test
-    PRIVATE Qt6::Quick
-)
+# Wenn SerialPort gefunden → einbinden + define setzen
+if(Qt6SerialPort_FOUND)
+    target_link_libraries(appSonnenblume_morphen PRIVATE Qt6::SerialPort)
+    target_compile_definitions(appSonnenblume_morphen PRIVATE USE_ARDUINO)
+endif()
 
+# Installieren (optional)
 include(GNUInstallDirs)
-install(TARGETS appSonne_Test
+install(TARGETS appSonnenblume_morphen
     BUNDLE DESTINATION .
-    LIBRARY DESTINATION ${CMAKE_INSTALL_LIBDIR}
     RUNTIME DESTINATION ${CMAKE_INSTALL_BINDIR}
 )
